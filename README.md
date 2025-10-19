@@ -68,5 +68,5 @@ My interests lie at the intersection of **machine learning**, **cloud computing*
 ---
 
 <p align="center">
-  ⭐ <b>"Turning data meaningfun"</b>
+  ⭐ <b>"Turning data meaningful"</b>
 </p>
