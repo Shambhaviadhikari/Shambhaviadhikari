@@ -50,18 +50,6 @@ My interests lie at the intersection of **machine learning**, **cloud computing*
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shambhaviadhikari&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shambhaviadhikari&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhaviadhikari&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
