@@ -1,72 +1,90 @@
-<!-- Header -->
-<h1 align="center">👋 Hi, I'm Shambhavi Adhikari</h1>
-<h3 align="center">Data Analytics • Machine Learning • Cloud • AI Applications</h3>
+# Shambhavi Adhikari
 
-<p align="center">
-  🎓 MS in Data Analytics @ George Washington University <br>
-  💻 Passionate about data-driven solutions & intelligent systems <br>
-  📍 Washington, DC | 🌎 Open to relocation & collaboration
-</p>
+**ML Engineer · Data Scientist · NLP & LLMs**
+
+3+ years building production AI systems across The World Bank, Alibaba's e-commerce platform, and AI startups. I work at the intersection of language models, scalable data infrastructure, and real-world impact — across healthcare, international development, and fintech.
+
+Open to new grad roles in 2026 · Washington, D.C. · Open to relocation
 
 ---
 
-## 🧠 About Me
+## What I work on
 
-I’m a data enthusiast focused on transforming raw data into meaningful insights and scalable AI solutions.  
-My interests lie at the intersection of **machine learning**, **cloud computing**, and **data engineering**.
+**NLP & LLMs** — Fine-tuning BERT, RoBERTa, LLaMA 2, BioBERT. Building RAG pipelines, legal document analysis, multilingual sentiment systems. Integrating OpenAI, Gemini, and Hugging Face APIs in production workflows.
 
-- 🔍 Currently exploring **LLMs**, **model optimization**, and **data pipelines**
-- ☁️ Experienced with **AWS**, **Docker**, and **microservice architecture**
-- 📈 Enjoy building **dashboards**, **data workflows**, and **AI-powered tools**
-- 🌱 Always learning and sharing knowledge
+**ML Engineering** — End-to-end pipelines with FastAPI, Docker, AWS (SageMaker, Lambda, S3), Azure ML. MLflow, Airflow, CI/CD for model lifecycle management.
+
+**Data at Scale** — PySpark on hundreds of millions of rows, Hadoop, ETL pipelines, graph analytics with Neo4j, and executive dashboards in Tableau and Power BI.
 
 ---
 
-## 🛠️ Tech Stack
+## Selected projects
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**ML / Data Tools:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Cloud / DevOps:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**Visualization:**  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+| Project | What it does | Stack |
+|---|---|---|
+| [Medical Entity Extraction](https://github.com/Shambhaviadhikari) | Clinical NER on 40K notes + knowledge graph for RAG retrieval | BioBERT · Transformers · RAG |
+| [Niti — Legal Chatbot](https://github.com/Shambhaviadhikari) | UNDP Hackathon winner · BERT + RAG for legal research | BERT · LangChain · FastAPI |
+| [Finance Analytics at Scale](https://github.com/Shambhaviadhikari/Finance-canva) | 673M row Fannie Mae dataset · clustering + risk analysis | PySpark · Neo4j · GraphRAG |
+| [Artwork Similarity Search](https://github.com/Shambhaviadhikari) | SimCLR + FAISS retrieval · 96% top-10 accuracy | PyTorch · SimCLR · AWS |
+| [NFL Big Data Bowl 2026](https://github.com/Shambhaviadhikari) | Player tracking analytics · separation + coverage metrics | Scikit-learn · NumPy |
+| [YouTube Content Analysis](https://github.com/Shambhaviadhikari/youtubedata_productanalysis) | API telemetry · monetization & CTR growth opportunities | Python · YouTube API |
 
 ---
 
+## Experience
 
-## 🌐 Connect with Me
+**The World Bank** — Data Analyst / Researcher *(Sep – Dec 2025)*
+Built multilingual NLP systems, integrated Gemini + OpenAI + Hugging Face APIs for legal document analysis, and developed ML prototypes for the Women, Business and the Law team.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shambhavi-adhikari/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:shambhavi.adhikari@gwu.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/shambhaviadhikari">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+**ICEBRKRAI (Geneva)** — AI / ML Engineer *(Jan – Aug 2024)*
+Deployed multimodal AI (YOLO, BLIP, PaddleOCR) and fine-tuned LLaMA 2, Phi-2, BART via OpenAI API on AWS for personalized content generation.
+
+**Daraz Nepal (Alibaba Group)** — Data Analyst *(Jun – Dec 2023)*
+Fraud detection (Random Forest), demand forecasting (ARIMA), RFM segmentation, ETL pipelines on Alibaba Cloud.
+
+**Nepal Health Economics Association** — Data Engineer / Analyst *(Apr 2022 – Apr 2023)*
+Scraped 15K+ hospital records, built supply chain analytics, logistic regression readmission model (AUC 0.84).
 
 ---
 
-<p align="center">
-  ⭐ <b>"Turning data meaningful"</b>
-</p>
+## Stack
+
+```
+Languages      Python · SQL · R · JavaScript · Bash
+ML / AI        PyTorch · TensorFlow · Hugging Face · LangChain · Scikit-learn
+               BERT · BioBERT · RoBERTa · LLaMA 2 · YOLO · RAG · RL
+Data Eng       PySpark · Hadoop · PostgreSQL · MongoDB · Neo4j · Cassandra
+Cloud / MLOps  AWS SageMaker · Docker · Kubernetes · MLflow · Airflow · Azure ML
+Analytics      Tableau · Power BI · Matplotlib · Plotly · Excel
+APIs           OpenAI · Gemini · Hugging Face · YouTube API
+```
+
+---
+
+## Education
+
+**MS Data Analytics** — George Washington University *(Dean's Award · Expected May 2026)*
+
+**BE Electronics & Communication Engineering** — Tribhuvan University, Pulchowk Campus *(Top 3% · 4% acceptance rate · 2023)*
+
+---
+
+## Recognition
+
+- **Winner** — UNDP-Diyo AI Hackathon 2023 (Niti legal chatbot)
+- **SEAS Dean's Award** — George Washington University
+- **Hult Prize CSA Program of the Year** — Institute of Engineering, Nepal
+- **Featured** — GW Today, Revolutionary Tales series
+
+---
+
+## Writing
+
+- [NFL Big Data Bowl 2026 — Tracking Analytics](https://medium.com/@shambhaviadhikari/nfl-big-data-bowl-2026-e94a31980429)
+- [Artwork Similarity Search with DINO Embeddings](https://medium.com/@shambhaviadhikari/artwork-similarity-search-with-dino-embeddings-73223f2fbf5a)
+- [Camera Calibration & Projection Models](https://medium.com/@shambhaviadhikari/real-world-camera-calibration-and-projection-models-eca4a2d0cd1e)
+- [Starting with EDA](https://medium.com/@shambhaviadhikari/starting-with-eda-6fad9e1e28d0)
+
+---
+
+[Portfolio](https://shambhaviadhikari.vercel.app) · [LinkedIn](https://linkedin.com/in/shambhavi-adhikari) · [Medium](https://medium.com/@shambhaviadhikari) · shambhavi.adhikari@gwu.edu
