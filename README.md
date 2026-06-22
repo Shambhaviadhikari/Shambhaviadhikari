@@ -4,7 +4,7 @@
 
 ### Data Analyst · Machine Learning Engineer · AI & NLP
 
-[![Portfolio](https://img.shields.io/badge/Portfolio?style=for-the-badge)](https://shambhaviadhikari.com.np/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shambhaviadhikari-black?style=for-the-badge)](https://shambhaviadhikari.com.np/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shambhavi-adhikari)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shambhaviadhikari)
